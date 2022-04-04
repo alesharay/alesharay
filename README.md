@@ -1,7 +1,7 @@
 <img width="1100" alt="Screen Shot 2022-04-04 at 12 28 53 PM" src="https://user-images.githubusercontent.com/25734539/161598947-ab021cdb-dd1a-4401-afc0-a87ab47ddabe.png">
 
 
-### Hi there 👋
+### Hi there 👋🏾
 
 My name is Alesha. I'm a Backend Software / DevSecOps Engineer Based in Austin, TX. 
 </br>My languages of choice are Java and Python, but I'm also well versed in C++ and am learning Go.
