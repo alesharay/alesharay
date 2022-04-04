@@ -10,8 +10,8 @@ My name is Alesha. I'm a Backend Software / DevSecOps Engineer Based in Austin, 
 </br>I come from a family of singers and musicians and somehow ended up in love with all things TECH!
 </br>Outside of tech, I also love photography. You can see the fruits of that labor at my website [photograp-h-e-r.com](www.photograp-h-e-r.com).
 
-- 🔭 I’m currently working on my certifications (linux, 
-- 🌱 I’m currently learning creative coding using processing
+- 🔭 I’m currently working on my certifications (linux (ex200), kubernetes (cka, ckad,ckas), cloud (az-104, aws saa-co2), etc...)
+- 🌱 I’m currently learning... creative coding using processing
 - 🤔 I’m looking for help with balancing my leisure time with, what I like to call, my "tech time"
 - 💬 Ask me about anything; I'm an open book
 - 📫 How to reach me: 
