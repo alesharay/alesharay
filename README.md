@@ -8,7 +8,7 @@ My name is Alesha. I'm a Backend Software / DevSecOps Engineer Based in Austin, 
 </br>I have a B.S. in Computer Science with a minor in Applied Mathematics from Texas State University.
 </br>I work for Oteemo, Inc. as an IT consultant and have had the pleasure of working with some brilliant minds in the industry while learning about all aspects of the engeering field.
 </br>I come from a family of singers and musicians and somehow ended up in love with all things TECH!
-</br>Outside of tech, I also love photography. You can see the fruits of that labor at my website [photograp-h-e-r.com](www.photograp-h-e-r.com).
+</br>Outside of tech, I also love photography. You can see the fruits of that labor at my website [photograp-h-e-r.com](www.photograp-h-e-r.com)
 
 - 🔭 I’m currently working on my certifications (linux (ex200), kubernetes (cka, ckad,ckas), cloud (az-104, aws saa-co2), etc...)
 - 🌱 I’m currently learning... creative coding using processing
